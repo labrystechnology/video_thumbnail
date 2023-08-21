@@ -1,0 +1,24 @@
+name: video_thumbnail_example
+description: Demonstrates how to use the video_thumbnail plugin.
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.2
+  path_provider: ^2.1.0
+  video_thumbnail:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
+
