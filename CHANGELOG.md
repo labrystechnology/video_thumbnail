@@ -1,3 +1,7 @@
+## 0.6.1
+* Thanks for Alberto-Monteiro
+  - refactor code
+
 ## 0.6.0
 * Thanks for Alberto-Monteiro
   - refactor code
