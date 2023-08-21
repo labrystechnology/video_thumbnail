@@ -1,7 +1,7 @@
 import 'package:cross_file/cross_file.dart';
 import 'package:flutter/services.dart';
-import 'package:video_thumbnail/src/image_format.dart';
-import 'package:video_thumbnail/src/video_thumbnail_platform.dart';
+import 'package:get_thumbnail_video/src/image_format.dart';
+import 'package:get_thumbnail_video/src/video_thumbnail_platform.dart';
 
 /// An implementation of [VideoThumbnailPlatform] that uses method channels.
 class MethodChannelVideoThumbnail extends VideoThumbnailPlatform {

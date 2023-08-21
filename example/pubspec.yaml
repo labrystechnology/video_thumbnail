@@ -1,6 +1,6 @@
 name: video_thumbnail_example
 description: Demonstrates how to use the video_thumbnail plugin.
-version: 1.0.0
+version: 0.0.1
 publish_to: 'none'
 
 environment:
@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
   image_picker: ^1.0.2
   path_provider: ^2.1.0
-  video_thumbnail:
+  get_thumbnail_video:
     path: ../
 
 dev_dependencies:
@@ -21,4 +21,3 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
