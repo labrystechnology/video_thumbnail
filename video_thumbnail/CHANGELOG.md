@@ -1,5 +1,5 @@
 ## 0.6.0
-* Thanks for maRci002
+* Thanks for Alberto-Monteiro
   - **Breaking change**: `VideoThumbnail.thumbnailFile` now returns `Future<XFile>` instead of `Future<String?>`
   - **Breaking change**: `VideoThumbnail.thumbnailData` now returns `Future<Uint8List>` instead of `Future<Uint8List?>`
   - migrating to use platform interface
