@@ -14,6 +14,7 @@ import 'package:get_thumbnail_video/src/image_format.dart';
 import 'package:get_thumbnail_video/src/video_thumbnail_platform.dart';
 
 export 'package:cross_file/cross_file.dart' show XFile;
+export 'package:get_thumbnail_video/src/image_format.dart' show ImageFormat;
 
 class VideoThumbnail {
   /// Generates a thumbnail file under specified thumbnail folder or given full path and name which matches expected ext.
